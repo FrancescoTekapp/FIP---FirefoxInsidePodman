@@ -17,3 +17,6 @@ podman run --rm \
 localhost/ubi8minimal-firefox
 
 ```
+
+
+Inspired by: https://github.com/grzegorzk/ff_in_podman
