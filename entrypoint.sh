@@ -2,4 +2,4 @@
 
 set -e
 
-firefox 
+firefox  google.com
