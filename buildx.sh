@@ -1,7 +1,7 @@
 #! /bin/bash
 
 ENV_IMAGE_NAME="fip_firefox_inside_podman"
-ENV_IMAGE_TAG="v0.1.1"
+ENV_IMAGE_TAG="v78.11.0esr"
 
 ENV_DOCKER_ORG="tekappsrl"
 ENV_DOCKER_USER=$1

@@ -2,4 +2,4 @@
 
 set -e
 
-firefox  google.com
+firefox redhat.com
